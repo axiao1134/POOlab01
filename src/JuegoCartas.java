@@ -1,3 +1,4 @@
+import java.security.KeyStore;
 import java.util.Scanner;
 import java.util.Random;
 public class JuegoCartas {
@@ -42,7 +43,26 @@ public class JuegoCartas {
     }
 
     */
+    public static void menu() {
+        Scanner sacanner = new Scanner(System.in);
+        boolean salir= false;
+        while(!salir){
+            System.out.println("1- crear  una matriz de carta");
+            System.out.println("2- sacar uan carta");
+            System.out.println("3- jugar");
+            System.out.println("4- salir");
+            System.out.println("inrgresar una opcion");
+            int opcion = sacanner.nextInt();
 
+            switch (opcion){
+                case 1:
+
+            }
+
+
+
+        }
+    }
 
 
 

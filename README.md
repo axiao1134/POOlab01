@@ -10,5 +10,5 @@ analisis del eprobelma:
 
 
 analisis2:
-1. crear una matrizacion de 2 por 13 en el metodo main
-2. 
+dividir el probelma en 2 parates, la parte de crear carats y jugar.
+en la preate de crear cartas
